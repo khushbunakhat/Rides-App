@@ -8,6 +8,7 @@ This is a rides-app where we can find our rides accordingly nearest, upcoming an
 React.js
 
 # 3.live Demo
+https://rides-app-by-khushbu.netlify.app/
 
 # 4.Image of website
 ![image](https://user-images.githubusercontent.com/86652571/168116858-584b12e2-0496-4ae1-a35c-8a5a0e22d489.png)
